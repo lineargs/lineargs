@@ -1,7 +1,7 @@
 # Hi there, I'm Goran 👋
 
 <div align="center">
-  <h1>IAM & Cyber Security Specialist</h1>
+  <h1>IAM & Cyber Security Architect</h1>
   <p>Securing Identities, The Cloud Native Way.</p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lineargs)
@@ -14,7 +14,7 @@
 
 ### 🛡️ About Me
 
-I am a **Cyber Security Engineer** specialising in **Identity & Access Management (IAM)**. My passion lies in architecting secure Google Cloud solutions and building tamper-proof Android applications.
+I am a **Cyber Security Architect** specialising in **Identity & Access Management (IAM)**. My passion lies in architecting secure Google Cloud solutions and building tamper-proof Android applications.
 
 - ☁️ **Expertise**: Google Cloud Platform, Workspace, and Identity solutions.
 - 📱 **Mobile**: Building secure, native Android applications.
@@ -55,9 +55,10 @@ I am a **Cyber Security Engineer** specialising in **Identity & Access Managemen
 
 ### 📢 Speaking & Engagements
 
-- **droidcon London 2024**: *Fortify the Fort: Think outside the security* ([Watch](https://www.youtube.com/watch?v=n6TxKKXPLMI))
-- **GDG Cloud Budapest**: *Build your Private Cloud Framework for Phishing E-mail Filtering* ([Watch](https://www.youtube.com/watch?v=1BjKW0QNcGI))
 - **GDG London**: *Certification Study Group - Associate Cloud Engineer* (2025 Series)
+- **droidcon London 2024**: *Fortify the Fort: Think outside the security* ([Watch](https://www.youtube.com/watch?v=n6TxKKXPLMI))
+- *Build your Private Cloud Framework for Phishing E-mail Filtering* ([Watch](https://www.youtube.com/watch?v=1BjKW0QNcGI))
+- *Machine Learning with Spark on Google Cloud Dataproc Workshop* ([Details](https://gdg.community.dev/events/details/google-gdg-london-presents-machine-learning-with-spark-on-google-cloud-dataproc-workshop/))
 
 ---
 
@@ -67,19 +68,3 @@ I am a **Cyber Security Engineer** specialising in **Identity & Access Managemen
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lineargs&show_icons=true&theme=radical" alt="lineargs's GitHub Stats">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lineargs&layout=compact&theme=radical" alt="Top Langs">
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lineargs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
