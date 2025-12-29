@@ -1,8 +1,6 @@
-# Hi there, I'm lineargs 👋
+# Hi there, I'm Goran 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzNXB1NmJ6MGN6Z3J6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6ZzF6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQC1Id6Y17a/giphy.gif" width="300">
-  <br />
   <h1>IAM & Cyber Security Specialist</h1>
   <p>Securing Identities, The Cloud Native Way.</p>
 
@@ -21,7 +19,7 @@ I am a **Cyber Security Engineer** specialising in **Identity & Access Managemen
 - ☁️ **Expertise**: Google Cloud Platform, Workspace, and Identity solutions.
 - 📱 **Mobile**: Building secure, native Android applications.
 - 🔒 **Security**: Advocate for "The Cloud Native Way" of securing identities.
-- 🎤 **Community**: Regular speaker at GDGs and droidcon.
+- 🎤 **Community**: Organiser and Lead at GDG London.
 
 ---
 
