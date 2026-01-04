@@ -25,7 +25,7 @@
 
 ### 🛡️ About Me
 
-I am a **Cyber Security Architect** and **8x Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
+I am a **Cyber Security Architect** and **8x Google Cloud Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
 
 Currently, I serve as a **Senior Technical Account Manager at Okta**, helping customers automate and secure their identity infrastructure. My passion lies in architecting secure Google Cloud solutions, building tamper-proof Android applications, and advocating for Zero Trust Architecture.
 
