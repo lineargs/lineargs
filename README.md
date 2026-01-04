@@ -2,69 +2,91 @@
 
 <div align="center">
   <h1>IAM & Cyber Security Architect</h1>
-  <p>Securing Identities, The Cloud Native Way.</p>
+  <p><strong>Securing Identities, The Cloud Native Way.</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lineargs)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lineargs)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lineargs)
-  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/lineargs)
+  <a href="https://lineargs.dev">
+    <img src="https://img.shields.io/badge/-lineargs.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://linkedin.com/in/lineargs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/lineargs">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://medium.com/@lineargs">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.credly.com/users/lineargs">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
 </div>
 
 ---
 
 ### 🛡️ About Me
 
-I am a **Cyber Security Architect** specialising in **Identity & Access Management (IAM)**. My passion lies in architecting secure Google Cloud solutions and building tamper-proof Android applications.
+I am a **Cyber Security Architect** and **8x Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
 
-- ☁️ **Expertise**: Google Cloud Platform, Workspace, and Identity solutions.
-- 📱 **Mobile**: Building secure, native Android applications.
-- 🔒 **Security**: Advocate for "The Cloud Native Way" of securing identities.
-- 🎤 **Community**: Organiser and Lead at GDG London.
+Currently, I serve as a **Senior Technical Account Manager at Okta**, helping customers automate and secure their identity infrastructure. My passion lies in architecting secure Google Cloud solutions, building tamper-proof Android applications, and advocating for Zero Trust Architecture.
+
+---
+
+### 🌍 Community Leadership
+
+| Role | Organization | Description |
+| :--- | :--- | :--- |
+| **Founder** | [**The Cloud Circuit**](https://cloudcircuit.london/) | London's independent hub for Google Cloud Developers. |
+| **Organizer** | [**GDG London**](https://gdg.community.dev/gdg-london/) | Leading one of the UK's largest developer communities (2019 - Present). |
+| **Co-Founder** | [**The Android Circuit**](https://androidcircuit.london/) | Connecting the Android developer community in London. |
+| **Mentor** | [**GDG Academy**](https://gdgacademy.com/) | Mentoring students to bridge the gap between academia and industry. |
 
 ---
 
 ### 🏆 Professional Certifications
 
-<div align="center">
+<div align="left">
   <a href="https://www.credly.com/badges/f66d43ea-578d-4610-a2a9-be1b5a93bdbc">
-    <img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" alt="Professional Cloud Architect">
+    <img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="110" alt="Professional Cloud Architect">
   </a>
   <a href="https://www.credly.com/badges/bb7a908b-2e32-46aa-9d7a-8f83c17c486b">
-    <img src="https://images.credly.com/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" width="100" alt="Professional Cloud DevOps Engineer">
+    <img src="https://images.credly.com/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" width="110" alt="Professional Cloud DevOps Engineer">
   </a>
   <a href="https://www.credly.com/badges/b5eba3e0-f97f-4516-9a45-6f4d32c88c11">
-    <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" width="100" alt="Professional Cloud Database Engineer">
+    <img src="https://images.credly.com/images/275e69a5-33a8-4d9c-bad4-2bdc0dfb7d40/image.png" width="110" alt="Professional Cloud Database Engineer">
   </a>
   <a href="https://www.credly.com/badges/224bcd57-a15c-4080-babe-9145c412c9cf">
-    <img src="https://images.credly.com/images/8413de18-592f-4705-b3c0-632b0b90198e/blob" width="100" alt="Okta Certified Consultant">
+    <img src="https://images.credly.com/images/8413de18-592f-4705-b3c0-632b0b90198e/blob" width="110" alt="Okta Certified Consultant">
   </a>
 </div>
 
 ---
 
+### 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=android,gcp,firebase,java,kotlin,git,docker,kubernetes,bash" alt="Tech Stack" />
+</div>
+
+---
+
+### 📢 Recent Speaking & Engagements
+
+- **GDG London (2025)**: *Certification Study Group - Associate Cloud Engineer*
+- **droidcon London 2024**: *Fortify the Fort: Think outside the security* ([Watch](https://www.youtube.com/watch?v=n6TxKKXPLMI))
+- **GDG Cloud Budapest**: *Build your Private Cloud Framework for Phishing E-mail Filtering* ([Watch](https://www.youtube.com/watch?v=1BjKW0QNcGI))
+- **GDG London**: *Machine Learning with Spark on Google Cloud Dataproc Workshop* ([Details](https://gdg.community.dev/events/details/google-gdg-london-presents-machine-learning-with-spark-on-google-cloud-dataproc-workshop/))
+
+---
+
 ### 🚀 Featured Projects
 
-- [**WatchNextApp**](https://github.com/lineargs/WatchNextApp) - A native Android application for discovering movies and TV shows.
-  - `Java` `Android Jetpack` `MVVM` `TMDB API`
-- [**ChatService**](https://github.com/lineargs/ChatService) - Real-time chat application demonstrating Firebase capabilities.
-  - `Java` `Android` `Firebase`
-- [**JokeTeller**](https://github.com/lineargs/joketeller) - Multi-module Android app using Google Cloud Endpoints.
-  - `Java` `Android` `GCE` `Gradle`
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| [**WatchNextApp**](https://github.com/lineargs/WatchNextApp) | `Java` `Jetpack` `MVVM` | Native Android app for discovering movies and TV shows via TMDB API. |
+| [**ChatService**](https://github.com/lineargs/ChatService) | `Java` `Firebase` | Real-time chat application demonstrating Firebase Auth & Database. |
+| [**JokeTeller**](https://github.com/lineargs/joketeller) | `GCP Endpoints` `Gradle` | Multi-module Android app using Google Cloud Endpoints. |
 
 ---
-
-### 📢 Speaking & Engagements
-
-- **GDG London**: *Certification Study Group - Associate Cloud Engineer* (2025 Series)
-- **droidcon London 2024**: *Fortify the Fort: Think outside the security* ([Watch](https://www.youtube.com/watch?v=n6TxKKXPLMI))
-- *Build your Private Cloud Framework for Phishing E-mail Filtering* ([Watch](https://www.youtube.com/watch?v=1BjKW0QNcGI))
-- *Machine Learning with Spark on Google Cloud Dataproc Workshop* ([Details](https://gdg.community.dev/events/details/google-gdg-london-presents-machine-learning-with-spark-on-google-cloud-dataproc-workshop/))
-
----
-
-### 🛠️ Tech Stack & Tools
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center">
+  <p>© lineargs.dev</p>
+</div>
