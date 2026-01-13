@@ -38,7 +38,6 @@ Currently, I serve as a **Senior Technical Account Manager at Okta**, helping cu
 | **Founder** | [**The Cloud Circuit**](https://cloudcircuit.london/) | London's independent hub for Google Cloud Developers. |
 | **Organizer** | [**GDG London**](https://gdg.community.dev/gdg-london/) | Leading one of the UK's largest developer communities (2019 - Present). |
 | **Co-Founder** | [**The Android Circuit**](https://androidcircuit.london/) | Connecting the Android developer community in London. |
-| **Mentor** | [**GDG Academy**](https://gdgacademy.com/) | Mentoring students to bridge the gap between academia and industry. |
 
 ---
 
@@ -66,25 +65,6 @@ Currently, I serve as a **Senior Technical Account Manager at Okta**, helping cu
 <div align="left">
   <img src="https://skillicons.dev/icons?i=android,gcp,firebase,java,kotlin,git,docker,kubernetes,bash" alt="Tech Stack" />
 </div>
-
----
-
-### 📢 Recent Speaking & Engagements
-
-- **GDG London (2025)**: *Certification Study Group - Associate Cloud Engineer*
-- **droidcon London 2024**: *Fortify the Fort: Think outside the security* ([Watch](https://www.youtube.com/watch?v=n6TxKKXPLMI))
-- **GDG Cloud Budapest**: *Build your Private Cloud Framework for Phishing E-mail Filtering* ([Watch](https://www.youtube.com/watch?v=1BjKW0QNcGI))
-- **GDG London**: *Machine Learning with Spark on Google Cloud Dataproc Workshop* ([Details](https://gdg.community.dev/events/details/google-gdg-london-presents-machine-learning-with-spark-on-google-cloud-dataproc-workshop/))
-
----
-
-### 🚀 Featured Projects
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| [**WatchNextApp**](https://github.com/lineargs/WatchNextApp) | `Java` `Jetpack` `MVVM` | Native Android app for discovering movies and TV shows via TMDB API. |
-| [**ChatService**](https://github.com/lineargs/ChatService) | `Java` `Firebase` | Real-time chat application demonstrating Firebase Auth & Database. |
-| [**JokeTeller**](https://github.com/lineargs/joketeller) | `GCP Endpoints` `Gradle` | Multi-module Android app using Google Cloud Endpoints. |
 
 ---
 <div align="center">
