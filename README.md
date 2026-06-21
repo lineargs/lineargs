@@ -7,7 +7,7 @@
   <a href="https://lineargs.dev">
     <img src="https://img.shields.io/badge/-lineargs.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://lineargs.dev/the-cold-start">
+  <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7424758308919734272">
     <img src="https://img.shields.io/badge/Newsletter-FFB900?style=for-the-badge&logo=minutemailer&logoColor=black" alt="The Cold Start"/>
   </a>
   <a href="https://linkedin.com/in/lineargs">
