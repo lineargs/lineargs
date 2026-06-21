@@ -1,11 +1,14 @@
 # Hi there, I'm Goran 👋
 
 <div align="center">
-  <h1>IAM & Cyber Security Architect</h1>
-  <p><strong>Securing Identities, The Cloud Native Way.</strong></p>
+  <h1>Cloud AI & Cyber Security Architect</h1>
+  <p><strong>Securing Agentic AI & Identities, The Cloud Native Way.</strong></p>
 
   <a href="https://lineargs.dev">
     <img src="https://img.shields.io/badge/-lineargs.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://lineargs.dev/the-cold-start">
+    <img src="https://img.shields.io/badge/Newsletter-FFB900?style=for-the-badge&logo=minutemailer&logoColor=black" alt="The Cold Start"/>
   </a>
   <a href="https://linkedin.com/in/lineargs">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -25,9 +28,9 @@
 
 ### 🛡️ About Me
 
-I am a **Cyber Security Architect** and **8x Google Cloud Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
+I am a **Cloud AI & Cyber Security Architect** and **8x Google Cloud Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
 
-Currently, I serve as a **Senior Technical Account Manager at Okta**, helping customers automate and secure their identity infrastructure. My passion lies in architecting secure Google Cloud solutions, building tamper-proof Android applications, and advocating for Zero Trust Architecture.
+Currently, I serve as a **Senior Technical Account Manager at Okta**, helping enterprises automate and secure their identity infrastructure. My passion lies in architecting secure machine learning workflows, deploying autonomous applications via the **Gemini Enterprise Agent Platform**, and ensuring that multi-agent systems are governed by strict **Secure-by-Design** and Zero Trust principles.
 
 ---
 
@@ -35,7 +38,7 @@ Currently, I serve as a **Senior Technical Account Manager at Okta**, helping cu
 
 | Role | Organization | Description |
 | :--- | :--- | :--- |
-| **Founder** | [**The Cloud Circuit**](https://cloudcircuit.london/) | London's independent hub for Google Cloud Developers. |
+| **Founder** | [**The Cloud Circuit**](https://cloudcircuit.london/) | London's independent hub for Google Cloud & Applied AI Developers. |
 | **Organizer** | [**GDG London**](https://gdg.community.dev/gdg-london/) | Leading one of the UK's largest developer communities (2019 - Present). |
 | **Co-Founder** | [**The Android Circuit**](https://androidcircuit.london/) | Connecting the Android developer community in London. |
 
@@ -63,7 +66,7 @@ Currently, I serve as a **Senior Technical Account Manager at Okta**, helping cu
 ### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=android,gcp,firebase,java,kotlin,git,docker,kubernetes,bash" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,android,firebase,java,kotlin,git,bash" alt="Tech Stack" />
 </div>
 
 ---
