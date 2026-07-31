@@ -4,6 +4,9 @@
   <h1>Cloud AI & Cyber Security Architect</h1>
   <p><strong>Securing Agentic AI & Identities, The Cloud Native Way.</strong></p>
 
+  <a href="https://developers.google.com/community/experts">
+    <img src="https://img.shields.io/badge/Google_Developer_Expert-Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Developer Expert - Cloud AI"/>
+  </a>
   <a href="https://lineargs.dev">
     <img src="https://img.shields.io/badge/-lineargs.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
@@ -28,7 +31,7 @@
 
 ### 🛡️ About Me
 
-I am a **Cloud AI & Cyber Security Architect** and **8x Google Cloud Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
+I am a **Google Developer Expert (GDE) in Google Cloud (Cloud AI)**, **Cloud AI & Cyber Security Architect**, and **8x Google Cloud Certified Professional**, holding key credentials including Google Cloud **Professional Architect**, **DevOps**, and **Database Engineer**.
 
 Currently, I serve as a **Senior Technical Account Manager at Okta**, helping enterprises automate and secure their identity infrastructure. My passion lies in architecting secure machine learning workflows, deploying autonomous applications via the **Gemini Enterprise Agent Platform**, and ensuring that multi-agent systems are governed by strict **Secure-by-Design** and Zero Trust principles.
 
@@ -38,6 +41,7 @@ Currently, I serve as a **Senior Technical Account Manager at Okta**, helping en
 
 | Role | Organization | Description |
 | :--- | :--- | :--- |
+| **Google Developer Expert** | [**Google for Developers**](https://developers.google.com/community/experts) | Cloud AI & Google Cloud technology expert, speaker, and mentor. |
 | **Founder** | [**The Cloud Circuit**](https://cloudcircuit.london/) | London's independent hub for Google Cloud & Applied AI Developers. |
 | **Organizer** | [**GDG London**](https://gdg.community.dev/gdg-london/) | Leading one of the UK's largest developer communities (2019 - Present). |
 | **Co-Founder** | [**The Android Circuit**](https://androidcircuit.london/) | Connecting the Android developer community in London. |
